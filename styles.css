@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700;900&display=swap');
 
 :root {
-  --primary-color: #3282B8;
-  --primary-color-dark: #0F4C75;
+  --primary-color: #18978F;
+  --primary-color-dark: #3F4E4F; 
   --accent-color: #FFF8F0;
 }
 
@@ -13,7 +13,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .navbar {
@@ -87,7 +87,7 @@ body {
 }
 
 .avatar-container img {
-  height: 700px;
+  height: 500px;
   width: auto;
 }
 
